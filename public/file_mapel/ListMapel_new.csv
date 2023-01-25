@@ -1,0 +1,289 @@
+id;id_master_jurusan;id_master_kategori;nama_mapel
+24;1;6;Bimbingan dan Konseling/Konselor (BP/BK)
+25;1;6;Teknologi Informasi dan Komunikasi
+26;1;3;Seni Budaya
+27;1;3;Pendidikan Jasmani, Olahraga, dan Kesehatan
+28;1;2;Pendidikan Agama Katholik dan Budi Pekerti
+29;1;2;Pendidikan Agama Konghuchu dan Budi Pekerti
+30;1;2;Bahasa Inggris
+31;1;2;Pendidikan Agama Kristen dan Budi Pekerti
+32;1;2;Pendidikan Agama Hindu dan Budi Pekerti
+33;1;2;Bahasa Indonesia
+34;1;2;Sejarah Indonesia
+35;1;2;Pendidikan Agama Islam dan Budi Pekerti
+36;1;2;Pendidikan Agama Buddha dan Budi Pekerti
+37;1;2;Pendidikan Pancasila dan Kewarganegaraan
+38;1;2;Matematika (Umum)
+39;1;2;Bahasa Arab
+40;1;2;Bahasa Belanda
+41;1;2;Bahasa Cina
+42;1;2;Bahasa Jepang
+43;1;2;Bahasa Jerman
+44;1;2;Bahasa Korea
+45;1;2;Bahasa Mandarin
+46;1;2;Bahasa Perancis
+47;1;1;Muatan Lokal Potensi Daerah
+48;1;1;Muatan Lokal Bahasa Daerah
+49;1;4;Simulasi dan Komunikasi Digital
+50;1;4;Dasar-dasar Kreativitas
+51;1;4;Tinjauan Seni
+52;1;5;Dasar-dasar Desain Kriya
+53;1;5;Desain Produk
+54;1;5;Gambar
+55;1;7;Produk Kreatif dan Kewirausahaan
+56;1;7;Kerja Finishing
+57;1;7;Teknik Kerja Bangku
+58;1;7;Teknik Kerja Mesin
+59;1;7;Teknik Kerja Ukir
+60;2;6;Bimbingan dan Konseling/Konselor (BP/BK)
+61;2;6;Teknologi Informasi dan Komunikasi
+62;2;3;Seni Budaya
+63;2;3;Pendidikan Jasmani, Olahraga, dan Kesehatan
+64;2;2;Pendidikan Agama Katholik dan Budi Pekerti
+65;2;2;Pendidikan Agama Konghuchu dan Budi Pekerti
+66;2;2;Bahasa Inggris
+67;2;2;Pendidikan Agama Kristen dan Budi Pekerti
+68;2;2;Pendidikan Agama Hindu dan Budi Pekerti
+69;2;2;Bahasa Indonesia
+70;2;2;Sejarah Indonesia
+71;2;2;Pendidikan Agama Islam dan Budi Pekerti
+72;2;2;Pendidikan Agama Buddha dan Budi Pekerti
+73;2;2;Pendidikan Pancasila dan Kewarganegaraan
+74;2;2;Matematika (Umum)
+75;2;2;Bahasa Arab
+76;2;2;Bahasa Belanda
+77;2;2;Bahasa Cina
+78;2;2;Bahasa Jepang
+79;2;2;Bahasa Jerman
+80;2;2;Bahasa Korea
+81;2;2;Bahasa Mandarin
+82;2;2;Bahasa Perancis
+83;2;1;Muatan Lokal Potensi Daerah
+84;2;1;Muatan Lokal Bahasa Daerah
+85;2;4;Simulasi dan Komunikasi Digital
+86;2;4;Dasar-dasar Kreativitas
+87;2;4;Tinjauan Seni
+88;2;5;Dasar-dasar Desain Kriya
+89;2;5;Desain Produk
+90;2;5;Gambar
+91;2;7;Produk Kreatif dan Kewirausahaan
+92;2;7;Batik
+93;2;7;Tenun
+94;2;7;Sablon
+95;2;7;Jahit
+96;3;6;Bimbingan dan Konseling/Konselor (BP/BK)
+97;3;6;Teknologi Informasi dan Komunikasi
+98;3;3;Seni Budaya
+99;3;3;Pendidikan Jasmani, Olahraga, dan Kesehatan
+100;3;2;Pendidikan Agama Katholik dan Budi Pekerti
+101;3;2;Pendidikan Agama Konghuchu dan Budi Pekerti
+102;3;2;Bahasa Inggris
+103;3;2;Pendidikan Agama Kristen dan Budi Pekerti
+104;3;2;Pendidikan Agama Hindu dan Budi Pekerti
+105;3;2;Bahasa Indonesia
+106;3;2;Sejarah Indonesia
+107;3;2;Pendidikan Agama Islam dan Budi Pekerti
+108;3;2;Pendidikan Agama Buddha dan Budi Pekerti
+109;3;2;Pendidikan Pancasila dan Kewarganegaraan
+110;3;2;Matematika (Umum)
+111;3;2;Bahasa Arab
+112;3;2;Bahasa Belanda
+113;3;2;Bahasa Cina
+114;3;2;Bahasa Jepang
+115;3;2;Bahasa Jerman
+116;3;2;Bahasa Korea
+117;3;2;Bahasa Mandarin
+118;3;2;Bahasa Perancis
+119;3;1;Muatan Lokal Potensi Daerah
+120;3;1;Muatan Lokal Bahasa Daerah
+121;3;4;Simulasi dan Komunikasi Digital
+122;3;4;Dasar-dasar Kreativitas
+123;3;4;Tinjauan Seni
+124;3;5;Dasar-dasar Desain Kriya
+125;3;5;Desain Produk
+126;3;5;Gambar
+127;3;7;Produk Kreatif dan Kewirausahaan
+128;3;7;Pembentukan dengan Teknik Cetak
+129;3;7;Pembentukan dengan Teknik Langsung
+130;3;7;Pembentukan dengan Teknik Putar Centering
+131;3;7;Pembentukan dengan Teknik Putar Pilin
+132;4;6;Bimbingan dan Konseling/Konselor (BP/BK)
+133;4;6;Teknologi Informasi dan Komunikasi
+134;4;3;Seni Budaya
+135;4;3;Pendidikan Jasmani, Olahraga, dan Kesehatan
+136;4;2;Pendidikan Agama Katholik dan Budi Pekerti
+137;4;2;Pendidikan Agama Konghuchu dan Budi Pekerti
+138;4;2;Bahasa Inggris
+139;4;2;Pendidikan Agama Kristen dan Budi Pekerti
+140;4;2;Pendidikan Agama Hindu dan Budi Pekerti
+141;4;2;Bahasa Indonesia
+142;4;2;Sejarah Indonesia
+143;4;2;Pendidikan Agama Islam dan Budi Pekerti
+144;4;2;Pendidikan Agama Buddha dan Budi Pekerti
+145;4;2;Pendidikan Pancasila dan Kewarganegaraan
+146;4;2;Matematika (Umum)
+147;4;2;Bahasa Arab
+148;4;2;Bahasa Belanda
+149;4;2;Bahasa Cina
+150;4;2;Bahasa Jepang
+151;4;2;Bahasa Jerman
+152;4;2;Bahasa Korea
+153;4;2;Bahasa Mandarin
+154;4;2;Bahasa Perancis
+155;4;1;Muatan Lokal Potensi Daerah
+156;4;1;Muatan Lokal Bahasa Daerah
+157;4;4;Simulasi dan Komunikasi Digital
+158;4;4;Dasar-dasar Kreativitas
+159;4;4;Tinjauan Seni
+160;4;5;Dasar-dasar Desain Kriya
+161;4;5;Desain Produk
+162;4;5;Gambar
+163;4;7;Produk Kreatif dan Kewirausahaan
+164;4;7;Pengelasan dan Pembubutan
+165;4;7;Pembuatan Perhiasan
+166;4;7;Dekorasi dan Kethok Pembentukan
+167;4;7;Pengecoran Logam
+168;4;7;Dekorasi dan Kethok Pembentukan
+169;5;6;Bimbingan dan Konseling/Konselor (BP/BK)
+170;5;6;Teknologi Informasi dan Komunikasi
+171;5;3;Seni Budaya
+172;5;3;Pendidikan Jasmani, Olahraga, dan Kesehatan
+173;5;2;Pendidikan Agama Katholik dan Budi Pekerti
+174;5;2;Pendidikan Agama Konghuchu dan Budi Pekerti
+175;5;2;Bahasa Inggris
+176;5;2;Pendidikan Agama Kristen dan Budi Pekerti
+177;5;2;Pendidikan Agama Hindu dan Budi Pekerti
+178;5;2;Bahasa Indonesia
+179;5;2;Sejarah Indonesia
+180;5;2;Pendidikan Agama Islam dan Budi Pekerti
+181;5;2;Pendidikan Agama Buddha dan Budi Pekerti
+182;5;2;Pendidikan Pancasila dan Kewarganegaraan
+183;5;2;Matematika (Umum)
+184;5;2;Bahasa Arab
+185;5;2;Bahasa Belanda
+186;5;2;Bahasa Cina
+187;5;2;Bahasa Jepang
+188;5;2;Bahasa Jerman
+189;5;2;Bahasa Korea
+190;5;2;Bahasa Mandarin
+191;5;2;Bahasa Perancis
+192;5;1;Muatan Lokal Potensi Daerah
+193;5;1;Muatan Lokal Bahasa Daerah
+194;5;4;Ilmu Pengetahuan Alam (IPA)
+195;5;4;Simulasi dan Komunikasi Digital
+196;5;4;Ekonomi Bisnis
+197;5;4;Administrasi Umum
+198;5;5;Teknologi Perkantoran
+199;5;5;Korespondensi
+200;5;5;Kearsipan
+201;5;7;Produk Kreatif dan Kewirausahaan
+202;5;7;Otomatisasi Tata Kelola Kepegawaian
+203;5;7;Otomatisasi Tata Kelola Keuangan
+204;5;7;Otomatisasi Tata Kelola Sarana dan Prasarana
+205;5;7;Otomatisasi Tata Kelola Humas dan Keprotokolan
+206;6;6;Bimbingan dan Konseling/Konselor (BP/BK)
+207;6;6;Teknologi Informasi dan Komunikasi
+208;6;3;Seni Budaya
+209;6;3;Pendidikan Jasmani, Olahraga, dan Kesehatan
+210;6;2;Pendidikan Agama Katholik dan Budi Pekerti
+211;6;2;Pendidikan Agama Konghuchu dan Budi Pekerti
+212;6;2;Bahasa Inggris
+213;6;2;Pendidikan Agama Kristen dan Budi Pekerti
+214;6;2;Pendidikan Agama Hindu dan Budi Pekerti
+215;6;2;Bahasa Indonesia
+216;6;2;Sejarah Indonesia
+217;6;2;Pendidikan Agama Islam dan Budi Pekerti
+218;6;2;Pendidikan Agama Buddha dan Budi Pekerti
+219;6;2;Pendidikan Pancasila dan Kewarganegaraan
+220;6;2;Matematika (Umum)
+221;6;5;Bahasa Arab
+222;6;5;Bahasa Belanda
+223;6;5;Bahasa Cina
+224;6;5;Bahasa Jepang
+225;6;5;Bahasa Jerman
+226;6;5;Bahasa Korea
+227;6;5;Bahasa Mandarin
+228;6;5;Bahasa Perancis
+229;6;1;Muatan Lokal Potensi Daerah
+230;6;1;Muatan Lokal Bahasa Daerah
+231;6;4;Ilmu Pengetahuan Alam (Terapan)
+232;6;4;Simulasi dan Komunikasi Digital
+233;6;4;Kepariwisataan
+234;6;7;Produk Kreatif dan Kewirausahaan
+235;6;7;Industri Perhotelan
+236;6;7;Front Office
+237;6;7;Housekeeping
+238;6;7;Laundry
+239;6;7;Food and Beverage
+240;7;4;Simulasi dan Komunikasi Digital
+241;7;4;Ilmu Pengetahuan Alam (Terapan)
+242;7;5;Keamanan Pangan (Sanitasi, Higienis, dan Keselamatan Kerja)
+243;7;5;Boga Dasar
+244;7;5;Pengetahuan Bahan Makanan
+245;7;7;Produk Kreatif dan Kewirausahaan
+246;7;7;Tata Hidang
+247;7;7;Pengolahan dan Penyajian Makanan
+248;7;7;Produk Cake, dan Kue Indonesia
+249;7;7;Produk Pastry dan Bakery
+250;7;7;Pengolahan dan Penyajian Makanan
+251;7;6;Bimbingan dan Konseling/Konselor (BP/BK)
+252;7;6;Teknologi Informasi dan Komunikasi
+253;7;3;Seni Budaya
+254;7;3;Pendidikan Jasmani, Olahraga, dan Kesehatan
+255;7;2;Pendidikan Agama Katholik dan Budi Pekerti
+256;7;2;Pendidikan Agama Konghuchu dan Budi Pekerti
+257;7;2;Bahasa Inggris
+258;7;2;Pendidikan Agama Kristen dan Budi Pekerti
+259;7;2;Pendidikan Agama Hindu dan Budi Pekerti
+260;7;2;Bahasa Indonesia
+261;7;2;Sejarah Indonesia
+262;7;2;Pendidikan Agama Islam dan Budi Pekerti
+263;7;2;Pendidikan Agama Buddha dan Budi Pekerti
+264;7;2;Pendidikan Pancasila dan Kewarganegaraan
+265;7;2;Matematika (Umum)
+266;7;2;Bahasa Arab
+267;7;2;Bahasa Belanda
+268;7;2;Bahasa Cina
+269;7;2;Bahasa Jepang
+270;7;2;Bahasa Jerman
+271;7;2;Bahasa Korea
+272;7;2;Bahasa Mandarin
+273;7;2;Bahasa Perancis
+274;7;1;Muatan Lokal Potensi Daerah
+275;7;1;Muatan Lokal Bahasa Daerah
+276;8;6;Bimbingan dan Konseling/Konselor (BP/BK)
+277;8;6;Teknologi Informasi dan Komunikasi
+278;8;3;Seni Budaya
+279;8;3;Pendidikan Jasmani, Olahraga, dan Kesehatan
+280;8;2;Pendidikan Agama Katholik dan Budi Pekerti
+281;8;2;Pendidikan Agama Konghuchu dan Budi Pekerti
+282;8;2;Bahasa Inggris
+283;8;2;Pendidikan Agama Kristen dan Budi Pekerti
+284;8;2;Pendidikan Agama Hindu dan Budi Pekerti
+285;8;2;Bahasa Indonesia
+286;8;2;Sejarah Indonesia
+287;8;2;Pendidikan Agama Islam dan Budi Pekerti
+288;8;2;Pendidikan Agama Buddha dan Budi Pekerti
+289;8;2;Pendidikan Pancasila dan Kewarganegaraan
+290;8;2;Matematika (Umum)
+291;8;2;Bahasa Arab
+292;8;2;Bahasa Belanda
+293;8;2;Bahasa Cina
+294;8;2;Bahasa Jepang
+295;8;2;Bahasa Jerman
+296;8;2;Bahasa Korea
+297;8;2;Bahasa Mandarin
+298;8;2;Bahasa Perancis
+299;8;1;Muatan Lokal Potensi Daerah
+300;8;1;Muatan Lokal Bahasa Daerah
+301;8;4;Simulasi dan Komunikasi Digital
+302;8;4;Dasar-dasar Kreativitas
+303;8;4;Tinjauan Seni
+304;8;5;Gambar
+305;8;5;Dasar-dasar Seni Rupa
+306;8;5;Sketsa
+307;8;7;Produk Kreatif dan Kewirausahaan
+308;8;7;Fotografi
+309;8;7;Komputer Grafis
+310;8;7;Videografi
+311;8;7;Desain Publikasi

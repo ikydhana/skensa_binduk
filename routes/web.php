@@ -19,3 +19,8 @@ Route::get('/', function () {
 Route::get('/privacy', function () {
     return \View::make("public.privacy");});
 
+Route::get('/mapel', function () {
+    return \View::make("public.mapel");});
+
+Route::get('/mapel/export_excel', 'app\Http\Controllers\MapelController@export_excel');
+Route::post('/mapel/import_excel', 'app\Http\Controllers\MapelController@import_excel');

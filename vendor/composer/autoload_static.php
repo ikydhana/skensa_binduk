@@ -593,6 +593,13 @@ class ComposerStaticInit7ae7f05c873a04d7a33553b208c49047
     public static $classMap = array (
         'App\\Console\\Kernel' => __DIR__ . '/../..' . '/app/Console/Kernel.php',
         'App\\Exceptions\\Handler' => __DIR__ . '/../..' . '/app/Exceptions/Handler.php',
+        'App\\Http\\Controllers\\AdminCmsUsersController' => __DIR__ . '/../..' . '/app/Http/Controllers/AdminCmsUsersController.php',
+        'App\\Http\\Controllers\\AdminMasterJurusanController' => __DIR__ . '/../..' . '/app/Http/Controllers/AdminMasterJurusanController.php',
+        'App\\Http\\Controllers\\AdminMasterKategoriController' => __DIR__ . '/../..' . '/app/Http/Controllers/AdminMasterKategoriController.php',
+        'App\\Http\\Controllers\\AdminMasterMapelController' => __DIR__ . '/../..' . '/app/Http/Controllers/AdminMasterMapelController.php',
+        'App\\Http\\Controllers\\AdminMasterSekolahController' => __DIR__ . '/../..' . '/app/Http/Controllers/AdminMasterSekolahController.php',
+        'App\\Http\\Controllers\\AdminMasterSiswaController' => __DIR__ . '/../..' . '/app/Http/Controllers/AdminMasterSiswaController.php',
+        'App\\Http\\Controllers\\CBHook' => __DIR__ . '/../..' . '/app/Http/Controllers/CBHook.php',
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',
         'App\\Http\\Middleware\\Authenticate' => __DIR__ . '/../..' . '/app/Http/Middleware/Authenticate.php',
