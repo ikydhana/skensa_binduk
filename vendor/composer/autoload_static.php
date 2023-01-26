@@ -574,6 +574,13 @@ class ComposerStaticInit7ae7f05c873a04d7a33553b208c49047
     );
 
     public static $prefixesPsr0 = array (
+        'O' => 
+        array (
+            'Orangehill\\Iseed' => 
+            array (
+                0 => __DIR__ . '/..' . '/orangehill/iseed/src',
+            ),
+        ),
         'M' => 
         array (
             'Mockery' => 
@@ -601,6 +608,7 @@ class ComposerStaticInit7ae7f05c873a04d7a33553b208c49047
         'App\\Http\\Controllers\\AdminMasterSiswaController' => __DIR__ . '/../..' . '/app/Http/Controllers/AdminMasterSiswaController.php',
         'App\\Http\\Controllers\\CBHook' => __DIR__ . '/../..' . '/app/Http/Controllers/CBHook.php',
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
+        'App\\Http\\Controllers\\MapelController' => __DIR__ . '/../..' . '/app/Http/Controllers/MapelController.php',
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',
         'App\\Http\\Middleware\\Authenticate' => __DIR__ . '/../..' . '/app/Http/Middleware/Authenticate.php',
         'App\\Http\\Middleware\\EncryptCookies' => __DIR__ . '/../..' . '/app/Http/Middleware/EncryptCookies.php',
@@ -610,6 +618,7 @@ class ComposerStaticInit7ae7f05c873a04d7a33553b208c49047
         'App\\Http\\Middleware\\TrustHosts' => __DIR__ . '/../..' . '/app/Http/Middleware/TrustHosts.php',
         'App\\Http\\Middleware\\TrustProxies' => __DIR__ . '/../..' . '/app/Http/Middleware/TrustProxies.php',
         'App\\Http\\Middleware\\VerifyCsrfToken' => __DIR__ . '/../..' . '/app/Http/Middleware/VerifyCsrfToken.php',
+        'App\\Imports\\MapelImport' => __DIR__ . '/../..' . '/app/Imports/MapelImport.php',
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',
         'App\\Providers\\AuthServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AuthServiceProvider.php',
@@ -747,7 +756,20 @@ class ComposerStaticInit7ae7f05c873a04d7a33553b208c49047
         'Cron\\MinutesField' => __DIR__ . '/..' . '/dragonmantank/cron-expression/src/Cron/MinutesField.php',
         'Cron\\MonthField' => __DIR__ . '/..' . '/dragonmantank/cron-expression/src/Cron/MonthField.php',
         'Database\\Factories\\UserFactory' => __DIR__ . '/../..' . '/database/factories/UserFactory.php',
+        'Database\\Seeders\\CmsDashboardTableSeeder' => __DIR__ . '/../..' . '/database/seeders/CmsDashboardTableSeeder.php',
+        'Database\\Seeders\\CmsMenusPrivilegesTableSeeder' => __DIR__ . '/../..' . '/database/seeders/CmsMenusPrivilegesTableSeeder.php',
+        'Database\\Seeders\\CmsMenusTableSeeder' => __DIR__ . '/../..' . '/database/seeders/CmsMenusTableSeeder.php',
+        'Database\\Seeders\\CmsModulsTableSeeder' => __DIR__ . '/../..' . '/database/seeders/CmsModulsTableSeeder.php',
+        'Database\\Seeders\\CmsPrivilegesRolesTableSeeder' => __DIR__ . '/../..' . '/database/seeders/CmsPrivilegesRolesTableSeeder.php',
+        'Database\\Seeders\\CmsPrivilegesTableSeeder' => __DIR__ . '/../..' . '/database/seeders/CmsPrivilegesTableSeeder.php',
+        'Database\\Seeders\\CmsSettingsTableSeeder' => __DIR__ . '/../..' . '/database/seeders/CmsSettingsTableSeeder.php',
+        'Database\\Seeders\\CmsUsersTableSeeder' => __DIR__ . '/../..' . '/database/seeders/CmsUsersTableSeeder.php',
         'Database\\Seeders\\DatabaseSeeder' => __DIR__ . '/../..' . '/database/seeders/DatabaseSeeder.php',
+        'Database\\Seeders\\MasterJurusanTableSeeder' => __DIR__ . '/../..' . '/database/seeders/MasterJurusanTableSeeder.php',
+        'Database\\Seeders\\MasterKategoriTableSeeder' => __DIR__ . '/../..' . '/database/seeders/MasterKategoriTableSeeder.php',
+        'Database\\Seeders\\MasterMapelTableSeeder' => __DIR__ . '/../..' . '/database/seeders/MasterMapelTableSeeder.php',
+        'Database\\Seeders\\MasterSiswaTableSeeder' => __DIR__ . '/../..' . '/database/seeders/MasterSiswaTableSeeder.php',
+        'Database\\Seeders\\UsersTableSeeder' => __DIR__ . '/../..' . '/database/seeders/UsersTableSeeder.php',
         'DeepCopy\\DeepCopy' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/DeepCopy.php',
         'DeepCopy\\Exception\\CloneException' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/Exception/CloneException.php',
         'DeepCopy\\Exception\\PropertyException' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/Exception/PropertyException.php',
@@ -4223,6 +4245,11 @@ class ComposerStaticInit7ae7f05c873a04d7a33553b208c49047
         'Opis\\Closure\\SecurityProvider' => __DIR__ . '/..' . '/opis/closure/src/SecurityProvider.php',
         'Opis\\Closure\\SelfReference' => __DIR__ . '/..' . '/opis/closure/src/SelfReference.php',
         'Opis\\Closure\\SerializableClosure' => __DIR__ . '/..' . '/opis/closure/src/SerializableClosure.php',
+        'Orangehill\\Iseed\\Facades\\Iseed' => __DIR__ . '/..' . '/orangehill/iseed/src/Orangehill/Iseed/Facades/Iseed.php',
+        'Orangehill\\Iseed\\Iseed' => __DIR__ . '/..' . '/orangehill/iseed/src/Orangehill/Iseed/Iseed.php',
+        'Orangehill\\Iseed\\IseedCommand' => __DIR__ . '/..' . '/orangehill/iseed/src/Orangehill/Iseed/IseedCommand.php',
+        'Orangehill\\Iseed\\IseedServiceProvider' => __DIR__ . '/..' . '/orangehill/iseed/src/Orangehill/Iseed/IseedServiceProvider.php',
+        'Orangehill\\Iseed\\TableNotFoundException' => __DIR__ . '/..' . '/orangehill/iseed/src/Orangehill/Iseed/Exceptions.php',
         'PHPUnit\\Exception' => __DIR__ . '/..' . '/phpunit/phpunit/src/Exception.php',
         'PHPUnit\\Framework\\ActualValueIsNotAnObjectException' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Exception/ActualValueIsNotAnObjectException.php',
         'PHPUnit\\Framework\\Assert' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert.php',

@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'ae436a3aef7c89be576d94f4703e012562f45f33',
+        'reference' => '6c51a000f2041cfd0d59f544f21bbad16d5161fb',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -499,7 +499,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'ae436a3aef7c89be576d94f4703e012562f45f33',
+            'reference' => '6c51a000f2041cfd0d59f544f21bbad16d5161fb',
             'dev_requirement' => false,
         ),
         'laravel/serializable-closure' => array(
@@ -659,6 +659,15 @@
             'install_path' => __DIR__ . '/../opis/closure',
             'aliases' => array(),
             'reference' => '3d81e4309d2a927abbe66df935f4bb60082805ad',
+            'dev_requirement' => false,
+        ),
+        'orangehill/iseed' => array(
+            'pretty_version' => 'v3.0.2',
+            'version' => '3.0.2.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../orangehill/iseed',
+            'aliases' => array(),
+            'reference' => '11f4355cdffc570eb231259f8700d760215df3fe',
             'dev_requirement' => false,
         ),
         'phar-io/manifest' => array(
